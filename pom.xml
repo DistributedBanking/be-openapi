@@ -1,18 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 
     <modelVersion>4.0.0</modelVersion>
     <groupId>io.bitexpress.openapi</groupId>
     <artifactId>be-openapi</artifactId>
-    <version>0.4-SNAPSHOT</version>
+    <version>0.4</version>
     <name>bitexpress openapi</name>
     <description>bitexpress openapi</description>
     <scm>
         <connection>scm:git:git@github.com:DistributedBanking/be-openapi.git</connection>
         <developerConnection>scm:git:git@github.com:DistributedBanking/be-openapi.git</developerConnection>
         <url>https://github.com/DistributedBanking/be-openapi</url>
-        <tag>HEAD</tag>
+        <tag>be-openapi-0.4</tag>
     </scm>
     <packaging>jar</packaging>
     <developers>
