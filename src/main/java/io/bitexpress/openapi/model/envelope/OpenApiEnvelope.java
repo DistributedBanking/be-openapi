@@ -29,8 +29,14 @@ public class OpenApiEnvelope {
     private Long uid;
 
     /**
-     * 发起者代码
+     * 发起人
      */
+    private Issuer issuer;
+
+    /**
+     * 发起者代码.使用issuer代替
+     */
+    @Deprecated
     private String issuerCode;
 
     /**
