@@ -4,14 +4,14 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>io.bitexpress.openapi</groupId>
     <artifactId>be-openapi</artifactId>
-    <version>0.5-SNAPSHOT</version>
+    <version>0.5</version>
     <name>bitexpress openapi</name>
     <description>bitexpress openapi</description>
     <scm>
         <connection>scm:git:git@github.com:DistributedBanking/be-openapi.git</connection>
         <developerConnection>scm:git:git@github.com:DistributedBanking/be-openapi.git</developerConnection>
         <url>https://github.com/DistributedBanking/be-openapi</url>
-        <tag>HEAD</tag>
+        <tag>be-openapi-0.5</tag>
     </scm>
     <packaging>jar</packaging>
     <developers>
